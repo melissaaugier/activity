@@ -1,0 +1,27 @@
+.navbar-lewagon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  box-shadow: 5px 0 10px rgba(0,0,0,0.15);
+  background-color: #fff;
+}
+.navbar-lewagon img {
+  width: 50px;
+}
+
+.tab{
+  text-decoration: none;
+  color: #e0e0e0;
+  margin: 0 20px;
+}
+
+.tab:hover{
+  color: #555555;
+}
+
+.active{
+  color: #555555;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #555555;
+}
